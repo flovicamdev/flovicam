@@ -8,7 +8,7 @@ return[
     
     'slogan' => 'Digital Transformation at the Service of All',
 
-    'slogandefinition' => 'Flovicam is an IT development company specializing in the creation of tailor-made websites, web and mobile applications to meet the needs of its customers.',
+    'slogandefinition' => 'Flovicam is a computer application development company specializing in the creation of tailor-made websites, web and mobile applications to meet the needs of its customers.',
 
     'Aproposdenous' => 'About Us',
 

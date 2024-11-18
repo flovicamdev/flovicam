@@ -8,7 +8,7 @@ return[
 
     'slogan' => 'La Transformation Digitale au Service de Tous',
 
-    'slogandefinition' => 'Flovicam est une entreprise de développement informatique spécialisée dans la réalisation des sites web, applications web et mobile sur mesure pour coller aux besoins de ses clients.',
+    'slogandefinition' => "Flovicam est une entreprise de développement d'application informatique spécialisée dans la réalisation des sites web, applications web et mobile sur mesure pour coller aux besoins de ses clients.",
 
     // page Apropos debut ==========================================================
     'Aproposdenous' => 'A Propos de nous',
